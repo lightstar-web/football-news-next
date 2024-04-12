@@ -126,7 +126,7 @@ export default Post;
 ## 🛠 Installation  <span id="install"></span>
 
 - Clone repository
-  > https://github.com/bk52/football-news.git
+  > https://github.com/lightstar0412/football-news-next.git
 - Install packages
   > npm install
 - Create .env file add below fields
